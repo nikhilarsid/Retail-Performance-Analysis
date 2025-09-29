@@ -1,5 +1,4 @@
-# MySQL Python Data Analytics Mini-Project
-**Author: ShuhanYang**
+
 
 **Project Type: Database Normalization & Business Intelligence Dashboard**
 
